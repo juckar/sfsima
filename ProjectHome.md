@@ -1,0 +1,1 @@
+Sistema maneja el inventario de los equipos de computo de una organizacion y lleva el registro de los mantenimientos realizados a dichos equipos
